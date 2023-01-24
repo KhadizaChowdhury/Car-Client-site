@@ -1,0 +1,11 @@
+.btn-theme-outline{
+    border: 1px solid #FF3811;
+    color:  #FF3811;
+}
+
+.btn:hover, .btn-active {
+    --tw-border-opacity: 1;
+    border-color: #FF3811;
+    --tw-bg-opacity: 1;
+    background-color: #FF3811;
+}
